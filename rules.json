@@ -11,6 +11,11 @@
 			"w3.org/css-validator",
 			"csslint.net",
 			"cleancss.com/css-beautify"
+		],
+		"naming": [
+			"1. Use lowercase letters. Example: index.html",
+			"2. Don't use spaces o symbols and separate words with an underscore or dash. Example: product_services.html or product-service.html",
+			"3. Descriptive name. Example: Instead of page1.html, page2.html use abot.html, protfolio.html"	
 		]
 	}
 }
