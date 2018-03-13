@@ -1,19 +1,17 @@
 {
-	"repository": {
-		"name": [
-			"1. Name should be in lowercase.",
-			"2. Name should be one word.",
-			"3. Name should describe repository's purpose",
-			"4. "
-		],
-		"description": "Should explain purpose of repository.",
-		"branch": [
-			"1. Learning - Should contain source information and course name seperated by hyphons. Example: learning/example-course",
-			"2. Application - YTD",
-			"3. POC - YTD"
+	"learning/introduction-to-css": {
+		"tips": [
+	                "1. Use comments liberally.",
+        	        "2. Use consistant naming convention. Read more: https://webdevstudios.com/2017/03/28/evolution-css-class-naming-methodologies/",
+                	"3. Use onsistant formatting.",
+               		"4. Group like styles. Example: h1 and h2 together.",
+                	"5. Split up files."
+        	],
+		"validators": [
+			"w3.org/css-validator",
+			"csslint.net",
+			"cleancss.com/css-beautify"
 		]
-	},
-	"version": 1.0,
-	"created": "2018/03/13",
-	"modified": ""
+	}
 }
+
