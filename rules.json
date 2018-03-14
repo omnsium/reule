@@ -11,11 +11,18 @@
 			"w3.org/css-validator",
 			"csslint.net",
 			"cleancss.com/css-beautify"
-		],
+		]		
+	},
+	"learning/css-essential-training-1": {
 		"naming": [
 			"1. Use lowercase letters. Example: index.html",
 			"2. Don't use spaces o symbols and separate words with an underscore or dash. Example: product_services.html or product-service.html",
 			"3. Descriptive name. Example: Instead of page1.html, page2.html use abot.html, protfolio.html"	
+		],
+		"links": [
+			"1. cssdrops",
+			"2. www.paulirish.com/2012/box-sizing-border-ftw/",
+			"3. unicode-table.com"
 		]
 	}
 }
