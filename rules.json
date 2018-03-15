@@ -11,7 +11,11 @@
 			"1. Learning - Should contain source information and course name seperated by hyphons. Example: learning/example-course",
 			"2. Application - YTD",
 			"3. POC - YTD"
-		]
+		],
+		"course":{
+			"tips": "Should be mentioned under reule repository and inside relevant git branch. Example: Repository name 'git' banch name 'css'",
+			"exercise": "Should be maintained under its own git repository and inside relevant git branch. Example: For CSS, repository name 'css' and branch name 'learning/introduction-to-css'"
+		}
 	},
 	"version": 1.0,
 	"created": "2018/03/13",
