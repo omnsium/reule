@@ -8,7 +8,7 @@
 		],
 		"description": "Should explain purpose of repository.",
 		"branch": [
-			"1. Learning - Should contain source information and course name seperated by hyphons. Example: learning/example-course",
+			"1. Learning - Should contain source information and course name seperated by hyphons. Example: learning/example-course OR learning/example-course(type)",
 			"2. Application - YTD",
 			"3. POC - YTD"
 		],
