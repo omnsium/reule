@@ -20,9 +20,19 @@
 			"3. Descriptive name. Example: Instead of page1.html, page2.html use abot.html, protfolio.html"	
 		],
 		"links": [
-			"1. cssdrops",
+			"1. tympanus.net/cssdrops",
 			"2. www.paulirish.com/2012/box-sizing-border-ftw/",
-			"3. unicode-table.com"
+			"3. unicode-table.com",
+			"4. colours.neilorangepeel.com",
+			"5. rgb.to",
+			"6. liquidapsice.com",
+			"7. gs.statcounter.com/screen-resolution-stats"
+		],
+		"tips": [
+			"1. Use property shorthand to reduce amount of the code.",
+			"2. If the value for a property is not declared, the default value will be assumed.",
+			"3. Mixing shorthand and longhand values may result in values getting overwritten.",
+			"4. Focusing on small screens first may help you make more thoughtful decisions."
 		]
 	}
 }
